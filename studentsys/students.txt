@@ -1,0 +1,7 @@
+{'id': 1001, 'name': '孙哥', 'english': '77', 'math': '130', 'chinese': '87'}
+{'id': 1002, 'name': '江哥', 'english': '103', 'math': '106', 'chinese': '89'}
+{'id': 1003, 'name': '军哥', 'english': '110', 'math': '108', 'chinese': '90'}
+{'id': 1004, 'name': '董哥', 'english': '120', 'math': '110', 'chinese': '86'}
+{'id': 1105, 'name': '江岱妍', 'english': '140', 'math': '70', 'chinese': '100'}
+{'id': 928, 'name': '朱梦力', 'english': '90', 'math': '90', 'chinese': '90'}
+{'id': 1, 'name': '1', 'english': '1', 'math': '1', 'chinese': '1'}
